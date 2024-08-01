@@ -1,4 +1,14 @@
 
+def chiama_lucia():
+  pass
+
+def facciamo_la_pizza():
+  pass
+
+def lavati_le_mani():
+  pass
+
+
 # DECORATORE (QUELLO VERO)
 
 def assicurati_di_lavare_mani1(fai_qualcosa):
@@ -40,3 +50,9 @@ def mangia2():
   # ora posso mangiare come un.. gran signore 
   chiama_lucia() 
   facciamo_la_pizza() 
+
+
+# ****************
+
+
+
